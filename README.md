@@ -1,6 +1,6 @@
-# TikkuusPlayground ✨🧪🎮
+# Tikkuu's Playground ✨🧪🎮
 
-Hi, I'm Tikkuus.
+Hi, I'm Tikkuu.
 
 I'm a technical translator and a beginner in vibe coding. This repository is my personal playground for building small, interesting, and sometimes unexpectedly cute projects.
 
